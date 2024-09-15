@@ -1,0 +1,2 @@
+# Snake-and-Ladder-Game
+This mini-project implements the classic Snake and Ladder game using the C programming language. Players roll a virtual dice to move across the board, encountering snakes that send them back and ladders that propel them forward. The game continues until one player reaches the finish. The program includes basic game mechanics, user-friendly prompts, and simple graphics to enhance the gaming experience.
